@@ -1,0 +1,37 @@
+#overlay
+{
+    background-color: rgba(0, 0, 255, 0.315);
+}
+
+#imgcard
+{
+    width: 150px;
+    margin: auto;
+    position: relative;
+    bottom: 50px;
+}
+
+#rs
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20%;
+}
+
+
+#cardauteur:hover
+{
+    background-color: rgba(0, 0, 255, 0.322);
+}
+
+#cardauteur
+{
+    text-decoration: none;
+    color: black;
+}
+
+#logopied
+{
+    margin: auto;
+}
